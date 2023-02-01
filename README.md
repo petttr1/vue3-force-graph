@@ -8,7 +8,7 @@ A repository accompanying the tutorial located at https://medium.com/@petttr1/vu
 Clone the repository and run the following commands in a terminal
 ```bash
 # navigate to the repo
-cd ~/your/path/vue-force-graph
+cd ~/your/path/vue3-force-graph
 
 # install dependencies
 $ npm install
